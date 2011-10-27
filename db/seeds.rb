@@ -9,7 +9,7 @@
 username = "rhaamo"
 email = "rhaamo@gruik.at"
 password = "toto"
-  
+
 account = User.create(:email => email, :login => username, :password => password, :password_confirmation => password)
 account.role.title = "admin"
 account.role.save

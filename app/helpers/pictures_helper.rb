@@ -7,13 +7,13 @@ module PicturesHelper
       return File.join("/", store_dir, "default", "invalid.png")
     end
   end
-  
+
   def navigation_objects(album, photo)
     # Return three objects
     index_in_album = album.pictures.index(photo)
     album_size = (album.pictures.size-1)
     pictures = album.pictures
-    
+
     case index_in_album
       when 0
         # first
@@ -29,5 +29,5 @@ module PicturesHelper
         return [pictures[index_in_album-1], photo, pictures[index_in_album+1]]
     end
   end
-    
+
 end

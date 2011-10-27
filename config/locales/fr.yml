@@ -12,7 +12,7 @@ fr:
       album:
         album: "Album"
         description: "Description"
-        
+
   session_login_ok: "Connecté."
   session_login_needed: "Vous devez vous connecter."
   session_logout_ok: "Déconnecté."
@@ -21,11 +21,11 @@ fr:
   users_create_ok: "Utilisateur créé avec succès."
   users_update_ok: "Utilisateur mis à jour avec succès."
   users_delete_ok: "Utilisateur supprimé avec succès."
-  
+
   albums_create_ok: "Album créé avec succès."
   albums_update_ok: "Album mis à jour avec succès."
   albums_delete_ok: "Album supprimé avec succès."
-  
+
   header_tab_home: "Accueil"
   header_tab_account: "Préferences"
   header_tab_login: "Se connecter"
@@ -35,35 +35,35 @@ fr:
   header_tab_pictures_new: "Nouvelles images"
   header_tab_return_album: "Retourner a l'album"
   header_tab_edit_album: "Editer l'album"
-  
+
   application_name: "Photon"
-  
+
   title_application_index: "Liste des albums"
-  
+
   title_sessions_login: "Se connecter"
-  
+
   title_users_new: "Nouvel utilisateur"
   title_users_list: "Liste des utilisateurs"
   title_users_edit: "Editer l'utilisateur"
   title_users_show: "Voir l'utilisateur"
-  
+
   title_albums_new: "Nouvel album"
   title_albums_edit: "Editer l'album"
-  
+
   title_pictures_new: "Nouvelles images"
   title_pictures_show: "Voir une image"
-  
+
   button_save: "Sauver"
   button_add: "Ajouter"
   button_validate: "Valider"
-  
+
   text_delete: "Supprimer"
   text_confirm_sure: "Êtes-vous sûr ?"
-  
+
   manage: "Gérer:"
-  
+
   there_is: "Il-y-a"
-  
+
   prohibited_form_being_saved:
     one: "a empéché le formulaire d'être sauvé:"
     other: "ont empéchés le formulaire d'être sauvé:"
@@ -151,4 +151,3 @@ fr:
       hour:   "Heure"
       minute: "Minute"
       second: "Secondes"
-      
